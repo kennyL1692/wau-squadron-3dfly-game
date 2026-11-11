@@ -2,7 +2,7 @@
 
 A fast arcade space shooter. Fly a starfighter shaped like a Malaysian wau kite, clear the Haze from Paddy Rings, and beat the Giant Haze Locust.
 
-**Play:** https://kennyl1692.github.io/wau-squadron-3dfly-game/
+**Play:** https://wau-squadron-3dfly-game.netlify.app (also on GitHub Pages: https://kennyl1692.github.io/wau-squadron-3dfly-game/)
 
 ## Controls
 
